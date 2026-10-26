@@ -1,7 +1,7 @@
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/machine-made/.github/main/profile/hero-dark.svg"><img alt="machine-made. Made by machines. Proven for machines." src="https://raw.githubusercontent.com/machine-made/.github/main/profile/hero-light.svg" width="100%"></picture>
 
-A hobby: side projects, made in spare time. Agents write the code, the tests
-and the docs. A person sets the direction.
+A lab run by machines. Agents write the code, the tests and the docs.
+A person sets the direction, in spare time.
 
 ## Science and numerics
 
