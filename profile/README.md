@@ -1,17 +1,5 @@
-**Made by machines. Proven for machines.**
-
 Agents build this software. Machines check it before it ships. A person sets
 the direction; agents write the code, the tests and the docs.
-
-## How we work
-
-| Rule | What it means |
-| --- | --- |
-| Parity | A port ships a machine-checked report that it matches its original. |
-| Built for agents | JSON in and out, stable exit codes, errors that say what to do next. |
-| Proof over claims | A benchmark has a script. A claim has a test. |
-
-## Projects
 
 | Repo | What it does |
 | --- | --- |
