@@ -1,5 +1,3 @@
-# machine-made
-
 **Made by machines. Proven for machines.**
 
 Agents build this software. Machines check it before it ships. A person sets
