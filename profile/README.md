@@ -31,6 +31,12 @@ A person sets the direction, in spare time.
 | [fortran-lsp](https://github.com/machine-made/fortran-lsp) | Fortran language server plugin for Claude Code |
 | [pi-effort](https://github.com/machine-made/pi-effort) | Pi command to inspect and change thinking effort |
 
+## Type
+
+| Repo | What it does |
+| --- | --- |
+| [type](https://github.com/machine-made/type) | machine-made Weft and machine-made Sans: typefaces made by code |
+
 ## Houses
 
 machine-made is the parent of two houses with their own domains:
