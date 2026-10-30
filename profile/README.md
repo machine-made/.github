@@ -32,12 +32,3 @@ Foundations for science and engineering, built for humans today and agents tomor
 | Repo | What it does |
 | --- | --- |
 | [type](https://github.com/machine-made/type) | machine-made Weft and machine-made Sans: typefaces made by code |
-
-## Houses
-
-machine-made is the parent of two houses with their own domains:
-[openfluids](https://github.com/openfluids) (open tools for fluid flows)
-and [BoringQuantSystems](https://github.com/BoringQuantSystems)
-(deterministic quant engines).
-
-Website: [machine-made.github.io](https://machine-made.github.io)
