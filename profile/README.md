@@ -1,5 +1,4 @@
-Agents write the code, the tests and the docs.
-A person sets the direction.
+Foundations for science and engineering, built for humans today and agents tomorrow.
 
 ## Science and numerics
 
