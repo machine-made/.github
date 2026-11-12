@@ -6,6 +6,8 @@ Foundations for science and engineering, built for humans today and agents tomor
 | --- | --- |
 | [minuit2-rs](https://github.com/machine-made/minuit2-rs) | Pure Rust port of CERN ROOT Minuit2, checked against ROOT |
 | [libsvm-rs](https://github.com/machine-made/libsvm-rs) | Pure Rust LIBSVM, checked against the C++ original |
+| [liblinear-rs](https://github.com/machine-made/liblinear-rs) | LIBLINEAR in pure Rust, parity-gated against the original |
+| [osqp-rs](https://github.com/machine-made/osqp-rs) | OSQP in pure Rust, parity-gated against the original |
 | [nebula-quanta](https://github.com/machine-made/nebula-quanta) | Deterministic Barnes-Hut N-body simulation in Rust |
 | [nanochat-rs](https://github.com/machine-made/nanochat-rs) | Small language models trained in Rust, benchmarked against nanochat |
 
@@ -22,10 +24,12 @@ Foundations for science and engineering, built for humans today and agents tomor
 
 | Repo | What it does |
 | --- | --- |
+| [alexandria](https://github.com/machine-made/alexandria) | Local research library for AI agents: books and papers to Markdown, searchable over MCP |
 | [bun-do](https://github.com/machine-made/bun-do) | Local-first todo app for people and AI agents: REST API and MCP server |
 | [fortran-lsp](https://github.com/machine-made/fortran-lsp) | Fortran language server plugin for Claude Code |
 | [pi-effort](https://github.com/machine-made/pi-effort) | Pi command to inspect and change thinking effort |
 | [pi-rethread](https://github.com/machine-made/pi-rethread) | Pi extension: hands work to a fresh session with a letter and a ledger |
+| [tex2speech](https://github.com/machine-made/tex2speech) | Turns LaTeX and Markdown into the words a person would say, for text-to-speech |
 
 ## Type
 
