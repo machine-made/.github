@@ -1,5 +1,3 @@
-Foundations for science and engineering, built for humans today and agents tomorrow.
-
 ## Science and numerics
 
 | Repo | What it does |
