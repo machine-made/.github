@@ -1,7 +1,5 @@
 ![machine-made](https://raw.githubusercontent.com/machine-made/.github/main/profile/banner.jpg)
 
-**A home-built, asynchronous factory for scientific software.**
-
 **Type**
 
 - [`type`](https://github.com/machine-made/type): Weft, Sans, Heddle and Warp, typefaces made by code
