@@ -10,7 +10,7 @@
 
 - [`minuit2-rs`](https://github.com/machine-made/minuit2-rs): CERN ROOT Minuit2 in Rust, checked against ROOT
 - [`libsvm-rs`](https://github.com/machine-made/libsvm-rs): LIBSVM in Rust, checked against the C++ original
-- [`liblinear-rs`](https://github.com/machine-made/liblinear-rs): LIBLINEAR in Rust, bit for bit on 158 cases
+- [`liblinear-rs`](https://github.com/machine-made/liblinear-rs): LIBLINEAR in Rust, bit for bit with the C original
 - [`nebula-quanta`](https://github.com/machine-made/nebula-quanta): deterministic Barnes-Hut N-body simulation
 - [`nanochat-rs`](https://github.com/machine-made/nanochat-rs): small language models trained in Rust
 
@@ -28,3 +28,4 @@
 - [`pdf-next`](https://github.com/machine-made/pdf-next): a PDF viewer that reloads when the file changes
 - [`vscode-pdf-next`](https://github.com/machine-made/vscode-pdf-next): PDF viewing in VS Code
 - [`vscode-diff-next`](https://github.com/machine-made/vscode-diff-next): branch and workspace diffs in VS Code
+- [`homebrew-tap`](https://github.com/machine-made/homebrew-tap): Homebrew casks for the desktop apps
