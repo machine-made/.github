@@ -1,4 +1,4 @@
-**A software factory for verified numerical science.**
+**A home-built software factory for numerical science.**
 
 ## Science and numerics
 
