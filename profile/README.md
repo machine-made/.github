@@ -1,3 +1,5 @@
+**A software factory for verified numerical science.**
+
 ## Science and numerics
 
 | Repo | What it does |
@@ -5,7 +7,6 @@
 | [minuit2-rs](https://github.com/machine-made/minuit2-rs) | Pure Rust port of CERN ROOT Minuit2, checked against ROOT |
 | [libsvm-rs](https://github.com/machine-made/libsvm-rs) | Pure Rust LIBSVM, checked against the C++ original |
 | [liblinear-rs](https://github.com/machine-made/liblinear-rs) | LIBLINEAR in pure Rust, parity-gated against the original |
-| [osqp-rs](https://github.com/machine-made/osqp-rs) | OSQP in pure Rust, parity-gated against the original |
 | [nebula-quanta](https://github.com/machine-made/nebula-quanta) | Deterministic Barnes-Hut N-body simulation in Rust |
 | [nanochat-rs](https://github.com/machine-made/nanochat-rs) | Small language models trained in Rust, benchmarked against nanochat |
 
@@ -33,4 +34,4 @@
 
 | Repo | What it does |
 | --- | --- |
-| [type](https://github.com/machine-made/type) | machine-made Weft and machine-made Sans: typefaces made by code |
+| [type](https://github.com/machine-made/type) | machine-made Weft, Sans, Heddle and Warp: typefaces made by code |
