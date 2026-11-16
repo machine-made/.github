@@ -1,6 +1,6 @@
 ![machine-made](https://raw.githubusercontent.com/machine-made/.github/main/profile/banner.jpg)
 
-**A home-built, asynchronous software factory for numerical science.**
+**A home-built, asynchronous factory for scientific software.**
 
 **Type**
 
