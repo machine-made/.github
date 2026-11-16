@@ -28,4 +28,3 @@
 - [`pdf-next`](https://github.com/machine-made/pdf-next): a PDF viewer that reloads when the file changes
 - [`vscode-pdf-next`](https://github.com/machine-made/vscode-pdf-next): PDF viewing in VS Code
 - [`vscode-diff-next`](https://github.com/machine-made/vscode-diff-next): branch and workspace diffs in VS Code
-- [`homebrew-tap`](https://github.com/machine-made/homebrew-tap): Homebrew casks for the desktop apps
